@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": "eco-yoga-mat",
+    "name": "Eco Yoga Mat",
+    "price": 899,
+    "currency": "INR",
+    "description": "Non-slip eco-friendly natural rubber mat – 6mm thickness. Perfect for all types of yoga and provides excellent grip and cushioning.",
+    "image": "https://picsum.photos/seed/yogamat/600/600",
+    "category": "Mats",
+    "stock": 50
+  },
+  {
+    "id": "yoga-blocks",
+    "name": "Cork Yoga Blocks (Set of 2)",
+    "price": 499,
+    "currency": "INR",
+    "description": "Sturdy and lightweight cork blocks to support your practice, deepen stretches, and improve alignment. An essential prop for all levels.",
+    "image": "https://picsum.photos/seed/yogablocks/600/600",
+    "category": "Props",
+    "stock": 120
+  },
+  {
+    "id": "yoga-strap",
+    "name": "Cotton Yoga Strap",
+    "price": 249,
+    "currency": "INR",
+    "description": "8ft long cotton strap with a durable metal D-ring. Helps you to extend your reach and hold poses for longer. Ideal for flexibility training.",
+    "image": "https://picsum.photos/seed/yogastrap/600/600",
+    "category": "Props",
+    "stock": 200
+  },
+  {
+    "id": "meditation-cushion",
+    "name": "Meditation Cushion (Zafu)",
+    "price": 1299,
+    "currency": "INR",
+    "description": "Ergonomic cushion filled with buckwheat hulls to provide comfortable support during meditation, promoting proper spinal alignment.",
+    "image": "https://picsum.photos/seed/cushion/600/600",
+    "category": "Accessories",
+    "stock": 30
+  },
+  {
+    "id": "copper-bottle",
+    "name": "Ayurvedic Copper Bottle",
+    "price": 799,
+    "currency": "INR",
+    "description": "Handcrafted 1-liter copper water bottle. Enjoy the health benefits of drinking copper-infused water. Leak-proof and stylish.",
+    "image": "https://picsum.photos/seed/bottle/600/600",
+    "category": "Accessories",
+    "stock": 80
+  }
+]

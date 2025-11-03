@@ -1,0 +1,66 @@
+import type { Product } from '../types';
+
+const products: Product[] = [
+  {
+    id: 'prod-1',
+    name: 'Eco-Friendly Yoga Mat',
+    price: 1200,
+    currency: 'INR',
+    description: 'A durable and non-slip mat made from sustainable materials.',
+    image: 'https://images.unsplash.com/photo-1591291621213-397f6a7b7a6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80',
+    category: 'Mats',
+    stock: 50,
+  },
+  {
+    id: 'prod-2',
+    name: 'Cork Yoga Block',
+    price: 450,
+    currency: 'INR',
+    description: 'A sturdy cork block to support your poses and deepen stretches.',
+    image: 'https://images.unsplash.com/photo-1605235394134-2c1b2c983424?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80',
+    category: 'Props',
+    stock: 100,
+  },
+  {
+    id: 'prod-3',
+    name: 'Organic Cotton Strap',
+    price: 300,
+    currency: 'INR',
+    description: 'An 8-foot strap to help you with flexibility and holding poses.',
+    image: 'https://images.unsplash.com/photo-1599440312100-22c6c1099a4c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80',
+    category: 'Props',
+    stock: 80,
+  },
+  {
+    id: 'prod-4',
+    name: 'Breathable Yoga Tank',
+    price: 900,
+    currency: 'INR',
+    description: 'A comfortable and stylish tank top made from breathable fabric.',
+    image: 'https://images.unsplash.com/photo-1576521369303-3c97b6a187b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80',
+    category: 'Apparel',
+    stock: 60,
+  },
+  {
+    id: 'prod-5',
+    name: 'High-Waist Yoga Leggings',
+    price: 1400,
+    currency: 'INR',
+    description: 'Supportive and flexible leggings perfect for any yoga style.',
+    image: 'https://images.unsplash.com/photo-1572021335469-31706a17aaef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80',
+    category: 'Apparel',
+    stock: 40,
+  },
+    {
+    id: 'prod-6',
+    name: 'Meditation Cushion',
+    price: 1100,
+    currency: 'INR',
+    description: 'Comfortable cushion for prolonged meditation sessions.',
+    image: 'https://images.unsplash.com/photo-1593811167563-5c4a7008558f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80',
+    category: 'Props',
+    stock: 30,
+  },
+];
+
+export default products;

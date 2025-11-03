@@ -1,0 +1,5 @@
+{
+  "name": "Yogkit - Live Yoga Transformation",
+  "description": "A responsive web application replicating Yogkit.com, offering various yoga programs like Home Yoga, Online Yoga, and Corporate Yoga. Includes features for viewing mentors, shopping for yoga essentials, and contacting for sessions.",
+  "requestFramePermissions": []
+}

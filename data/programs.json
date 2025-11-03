@@ -1,0 +1,61 @@
+
+[
+  {
+    "id": "home-yoga",
+    "title": "Home Yoga",
+    "shortDescription": "Personalized yoga sessions in the comfort of your home.",
+    "detailedDescription": "Our Home Yoga programme brings certified instructors to your living space. Sessions can be tailored for beginners, working professionals, or family groups. Flexible timings ensure that yoga fits seamlessly into your busy life, providing a sanctuary of peace and wellness right at your doorstep.",
+    "image": "https://picsum.photos/seed/homeyoga/1200/800",
+    "benefits": ["Convenience at home", "Customized plan", "Flexible schedule", "Personal Attention"],
+    "pricingPlans": [
+      { "plan": "Silver", "price": "₹1499/month", "features": ["3 sessions/week", "Group of up to 4", "Email Support"] },
+      { "plan": "Gold", "price": "₹2499/month", "features": ["5 sessions/week", "Personal session", "Diet Plan"] },
+      { "plan": "Platinum", "price": "₹3499/month", "features": ["Unlimited sessions", "Family inclusive", "Monthly Assessment"] }
+    ],
+    "faq": [
+      { "question": "Do I need my own yoga mat?", "answer": "Yes, for hygiene reasons, we recommend you use your own mat. We can provide one for the first session if needed." },
+      { "question": "Are online sessions possible if I travel?", "answer": "Absolutely. We can switch to Zoom or Google Meet for your sessions if you are away from home." },
+      { "question": "How long is each session?", "answer": "Each session typically lasts for 60 minutes, including warm-up and cool-down periods." }
+    ]
+  },
+  {
+    "id": "online-yoga",
+    "title": "Online Yoga",
+    "shortDescription": "Live, interactive yoga classes from anywhere in the world.",
+    "detailedDescription": "Join our vibrant online community and practice yoga with expert instructors in real-time. Our classes cater to all levels, from absolute beginners to advanced practitioners. Get instant feedback and stay motivated.",
+    "image": "https://picsum.photos/seed/onlineyoga/1200/800",
+    "benefits": ["Practice anywhere", "Variety of classes", "Expert guidance", "Community support"],
+     "schedule": [
+      { "day": "Monday - Friday", "time": "7:00 AM - 8:00 AM", "level": "All Levels" },
+      { "day": "Monday, Wednesday, Friday", "time": "6:00 PM - 7:00 PM", "level": "Intermediate" },
+      { "day": "Tuesday, Thursday", "time": "7:00 PM - 8:00 PM", "level": "Beginner" },
+      { "day": "Saturday", "time": "9:00 AM - 10:30 AM", "level": "Advanced Workshop" }
+    ],
+    "pricingPlans": [
+      { "plan": "Drop-in", "price": "₹299/class", "features": ["Single class access"] },
+      { "plan": "Monthly", "price": "₹1999/month", "features": ["Unlimited classes", "Access to recordings"] },
+      { "plan": "Quarterly", "price": "₹4999/3 months", "features": ["All monthly benefits", "1 free workshop"] }
+    ],
+    "faq": [
+      { "question": "What platform do you use for classes?", "answer": "We use Zoom for all our live online classes for its interactive features." },
+      { "question": "What if I miss a class?", "answer": "All classes are recorded and available to monthly and quarterly subscribers for 7 days." }
+    ]
+  },
+  {
+    "id": "corporate-yoga",
+    "title": "Corporate Yoga",
+    "shortDescription": "Wellness programs to boost employee productivity and well-being.",
+    "detailedDescription": "Introduce the benefits of yoga to your workplace. Our corporate programs are designed to reduce stress, improve focus, and promote a healthy work-life balance. We offer on-site and virtual sessions to fit your company's needs.",
+    "image": "https://picsum.photos/seed/corporateyoga/1200/800",
+    "benefits": ["Stress Reduction", "Improved Focus", "Team Building", "Enhanced Morale"],
+    "pricingPlans": [
+      { "plan": "On-site Session", "price": "₹4999/session", "features": ["Up to 20 employees", "60-minute class", "All props included"] },
+      { "plan": "Virtual Session", "price": "₹2999/session", "features": ["Unlimited employees", "45-minute class via Zoom"] },
+      { "plan": "Wellness Workshop", "price": "Contact for Quote", "features": ["Customized half-day/full-day events"] }
+    ],
+    "faq": [
+      { "question": "Can sessions be customized?", "answer": "Yes, we tailor all corporate sessions to meet the specific needs and goals of your team, focusing on areas like desk-related strain or stress management." },
+      { "question": "What space is required for on-site sessions?", "answer": "A quiet, open space like a conference room or a common area is sufficient. We can adapt to various office environments." }
+    ]
+  }
+]

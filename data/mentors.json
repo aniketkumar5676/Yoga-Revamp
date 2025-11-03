@@ -1,0 +1,41 @@
+
+[
+  {
+    "id": "yogi-ramesh",
+    "name": "Yogi Ramesh",
+    "title": "Senior Yoga Trainer",
+    "specialties": ["Hatha Yoga", "Meditation", "Therapeutic Yoga"],
+    "experienceYears": 12,
+    "bio": "With over a decade of teaching experience in Rishikesh and overseas, Yogi Ramesh specializes in therapeutic Hatha styles for all ages. His calm demeanor and deep understanding of yogic philosophy make his classes a transformative experience.",
+    "image": "https://picsum.photos/seed/ramesh/400/400",
+    "socialLinks": {
+      "instagram": "https://instagram.com/yogiramesh",
+      "linkedin": "https://linkedin.com/in/yogiramesh"
+    }
+  },
+  {
+    "id": "priya-sharma",
+    "name": "Priya Sharma",
+    "title": "Vinyasa & Ashtanga Expert",
+    "specialties": ["Vinyasa Flow", "Ashtanga", "Pranayama"],
+    "experienceYears": 8,
+    "bio": "Priya's classes are known for their dynamic energy and creative sequencing. A certified Ashtanga instructor, she helps students build strength, flexibility, and focus, while encouraging a playful approach to the practice.",
+    "image": "https://picsum.photos/seed/priya/400/400",
+    "socialLinks": {
+      "instagram": "https://instagram.com/priyayoga",
+      "facebook": "https://facebook.com/priyayoga"
+    }
+  },
+  {
+    "id": "anand-verma",
+    "name": "Anand Verma",
+    "title": "Meditation & Mindfulness Coach",
+    "specialties": ["Mindfulness", "Yoga Nidra", "Restorative Yoga"],
+    "experienceYears": 15,
+    "bio": "Anand is a master of the subtle arts of yoga. He guides students into deep states of relaxation and self-awareness through Yoga Nidra and mindfulness practices. His sessions are a perfect antidote to modern-day stress.",
+    "image": "https://picsum.photos/seed/anand/400/400",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/anandverma"
+    }
+  }
+]
